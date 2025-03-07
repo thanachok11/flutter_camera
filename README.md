@@ -23,7 +23,7 @@ flutter pub get
 นี่คือลักษณะของโปรเจกต์เมื่อรันแอป
 
 ![home page](images/home.png)
-![camera page](images/camare.png)
+![camera page](images/camera.png)
 ![choose image](images/choose_image.png)
 ![gallery page](images/gallery.png)
 ![full screen page](images/full_screen.png)
