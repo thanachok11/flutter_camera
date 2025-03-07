@@ -9,7 +9,7 @@
 
 ## วิธีการติดตั้ง
 
-### 1. โคลนโครงการนี้
+### 1. โคลนโปรเจกต์นี้
 
 ```bash
 git clone https://github.com/thanachok11/flutter_camera.git
