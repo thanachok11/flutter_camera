@@ -22,9 +22,9 @@ flutter pub get
 ### 3. ตัวอย่างรูปภาพ
 นี่คือลักษณะของโปรเจกต์เมื่อรันแอป
 
-![home page](assets/images/home.png)
-![camera page](assets/images/camare.png)
-![choose image](assets/images/choose_image.png)
-![gallery page](assets/images/gallery.png)
-![full screen page](assets/images/full_screen.png)
+![home page](images/home.png)
+![camera page](images/camare.png)
+![choose image](images/choose_image.png)
+![gallery page](images/gallery.png)
+![full screen page](images/full_screen.png)
 
